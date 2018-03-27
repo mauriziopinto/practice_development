@@ -1,0 +1,19 @@
+## Minute Meetings - 26.03.2018
+
+Short-Term (Introduction):
+- A new folder will be created for the topic "Automation" in GitLab
+- Look at videos, and prepare slides with main takeaways, Prepare slides until 12th of April
+- (Optional) Organize a Brown Bag Session on the topic
+- Everyone looked at Video 1 and took some notes which will be shared
+- Alex will create slides based on Video 2
+- Ersilia will create slides based on Video 3
+- Christian and Dirk will create slides based on Video 4
+- Video 5 will be skipped
+
+Mid-Term (Physical Robotics):
+- Programm a Cozmo Robot to do simple actions, with a drag and drop interface
+- Demo results until 10th of May
+
+Long-Term (Software Robotics):
+- See how platforms like PEGA and Blue Prism can automate tasks (e.g. in customer care)
+- Results until June/July
