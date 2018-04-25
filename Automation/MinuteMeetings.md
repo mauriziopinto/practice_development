@@ -1,4 +1,4 @@
-## Miute Meetings - 23.04.2018
+## Minute Meetings - 23.04.2018
 - New link for video files: https://live-mwcc01.gatworks.net/bitrix/tools/disk/focus.php?folderId=78347&action=openFolderList&ncc=1
 - Renamed PPTX for presentation and uploaded all versions to GutHub: https://github.com/mauriziopinto/practice_development/tree/master/Automation. Latest version can always be found by the date in the filename, which has the format "Innovation track - Automation_DDMMYY.pptx" (YYMMDD stands for Year/Month/Day, e.g. 180423 stands for April 23rd, 2018).
 - Dirk, Christian and Alex went through the slides and cut some content from slides/videos 2 and 4. They are suggesting to cut as much text as possible from slides/videos 1 and 3 as well. Most of the bold text can remain; the non-bold text can be communicated verbally to the audience.
