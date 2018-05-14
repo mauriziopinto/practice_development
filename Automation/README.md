@@ -12,3 +12,5 @@ Our short-term objectives are:
 - Videos in Bitrix24: https://live-mwcc01.gatworks.net/docs/shared/path/Downloads/
 - internal link to Bitrix24: https://live-mwcc01.gatworks.net/bitrix/tools/disk/focus.php?folderId=78347&action=openFolderList&ncc=1
 - [DOC and PPT Templates](https://tamtamy.reply.com/tamtamy/permalink/live-reply-documentation-templates.action) (use WHITE 16:9 PPT for the slides)
+- Download and Install Cozmo SDK: http://cozmosdk.anki.com/docs/?_ga=2.110752960.475353412.1526303728-1348784750.1526303728
+- Cozmo Python API: http://cozmosdk.anki.com/docs/api.html
