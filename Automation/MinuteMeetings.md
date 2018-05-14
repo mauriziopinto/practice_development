@@ -4,7 +4,6 @@
 - Alex will further refine the details of this plan and share the tasks for each of us within the following weeks
 - Everyone will install and familiarize themselves with the Cozmo SDK and Python scripting, take a good look at the API (tip: find out how to make Cozmo move and say something)
 - Next Monday is a holiday. Team plans to meet for half an hour within the rest of the week
-
 - Download and Install Cozmo SDK: http://cozmosdk.anki.com/docs/?_ga=2.110752960.475353412.1526303728-1348784750.1526303728
 - Cozmo Python API: http://cozmosdk.anki.com/docs/api.html
 
