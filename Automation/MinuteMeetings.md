@@ -1,3 +1,14 @@
+## Minute Meetings - 14.05.2018
+- Maurizio discussed more of Cozmo's capabilities and introduced us to the Cozmo SDK and Python scripting
+- Alex created a plan of what challenge Cozmo is supposed to complete (in short: switch position of two Cubes with the help of a third cube; pass by obstacles on its way)
+- Alex will further refine the details of this plan and share the tasks for each of us within the following weeks
+- Everyone will install and familiarize themselves with the Cozmo SDK and Python scripting, take a good look at the API (tip: find out how to make Cozmo move and say something)
+- Next Monday is a holiday. Team plans to meet for half an hour within the rest of the week
+
+- Download and Install Cozmo SDK: http://cozmosdk.anki.com/docs/?_ga=2.110752960.475353412.1526303728-1348784750.1526303728
+- Cozmo Python API: http://cozmosdk.anki.com/docs/api.html
+
+
 ## Minute Meetings - 23.04.2018
 - New link for video files: https://live-mwcc01.gatworks.net/bitrix/tools/disk/focus.php?folderId=78347&action=openFolderList&ncc=1
 - Renamed PPTX for presentation and uploaded all versions to GutHub: https://github.com/mauriziopinto/practice_development/tree/master/Automation. Latest version can always be found by the date in the filename, which has the format "Innovation track - Automation_DDMMYY.pptx" (YYMMDD stands for Year/Month/Day, e.g. 180423 stands for April 23rd, 2018).
