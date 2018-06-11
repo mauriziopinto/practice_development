@@ -1,3 +1,8 @@
+## Minute Meetings - 11.06.2018
+- Dismissed old Cozmo challenge because it was too complicated
+- Designed new Cozmo challenge with fewer steps based off the python script examples
+- See file for updated challenge: https://github.com/mauriziopinto/practice_development/blob/master/Automation/InnovationTrack_Automation_TheCozmoChallenge_v2.pptx
+
 ## Minute Meetings - 14.05.2018
 - Maurizio discussed more of Cozmo's capabilities and introduced us to the Cozmo SDK and Python scripting
 - Alex created a plan of what challenge Cozmo is supposed to complete (in short: switch position of two Cubes with the help of a third cube; pass by obstacles on its way)
