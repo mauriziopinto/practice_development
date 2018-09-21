@@ -1,3 +1,19 @@
+## Minute Meetings - 21.09.2018
+today we:
+-	demonstrated new Cozmo challenge live
+-	had a look at the slides for the brown bag session (BBS)
+-	had a talk about the general contents of the BBS (what are goals of Autonomous Driving (AD), what problems exist, how are they solved)
+-	the duration of the BBS (45-60 minutes, including around 10 minutes for the demo)
+
+goals until next week (Friday, September 28th, right after the BU-C meeting):
+-	understand our current slides (see attachment)
+-	be prepared to discuss what slides to cut/modify
+-	be prepared to discuss which slides you want to present and how long it might take you
+-	Alex: Test Ersilia’s suggestion to have Cozmo scan before moving
+-	Christian: Share original AD videos
+-	All (optional): Feel free to bring you own cut/modified version of the slides
+
+
 ## Minute Meetings - 11.06.2018
 - Dismissed old Cozmo challenge because it was too complicated
 - Designed new Cozmo challenge with fewer steps based off the python script examples
